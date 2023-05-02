@@ -1,0 +1,8 @@
+- styled components 
+https://styled-components.com/
+
+- props
+
+- material ui -  icons and installation
+
+- 
